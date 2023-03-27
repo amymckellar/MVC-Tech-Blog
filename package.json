@@ -4,22 +4,22 @@
   "description": "\"\"",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
     "seed": "node seeds/index.js"
-
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/amymckellar/MVC-Tech-Blog.git"
   },
-  "keywords": [
-    "[]"
-  ],
-  "author": "\"\"",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/amymckellar/MVC-Tech-Blog/issues"
   },
-  "homepage": "https://github.com/amymckellar/MVC-Tech-Blog#readme"
+  "homepage": "https://github.com/amymckellar/MVC-Tech-Blog#readme",
+  "dependencies": {
+    "express-handlebars": "^7.0.4"
+  }
 }
