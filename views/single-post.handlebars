@@ -1,0 +1,11 @@
+{{> post-info post}}
+
+{{> comments post.comments}}
+    
+    <form class = "comment-form" action = "/api/comments" method = "POST">
+        <input type = "hidden" name = "post_id" value = "{{post._id}}">
+        <textarea name = "commentBody" placeholder = "Leave a comment..."></textarea>
+        <button type = "submit">Submit</button>
+    </form>
+</div>
+
