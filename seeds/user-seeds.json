@@ -1,21 +1,14 @@
 [
     {
-        "id": "1",
-        "name": "Amy",
-        "age": "27",
-        "city": "Louisiana"
+        "username": "AmyM",
+        "password": "1234",
     },
     {
-        "id": "2",
-        "name": "George",
-        "age": "34",
-        "city": "Panama"
-    },
-    {
-        "id": "3",
-        "name": "Sally",
-        "age": "50",
-        "city": "Los Angeles"
+        "username": "Bob",
+        "password": "password",
     }
+
 ]
+
+    
 
