@@ -1,0 +1,15 @@
+{{#if posts.length}}
+    <div class="posts">
+        {{#each posts}}
+            {{> post}}
+        {{/each}}
+    </div>
+{{else}}
+    <div class="no-posts">
+        <p>You do not have any posts.</p>
+    </div>
+{{/if}}
+
+
+
+
