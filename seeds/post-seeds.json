@@ -1,0 +1,16 @@
+[ {
+    "title": "Blog",
+    "post_content": "This is a blog post",
+},
+
+{
+    "title": "Project Ideas",
+    "post_content": "This is a post about project ideas",
+},
+
+{
+    "title":"Developer Challenges",
+    "post_content":"This is a post about developer challenges",
+}
+
+]
