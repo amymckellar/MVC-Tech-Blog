@@ -1,4 +1,10 @@
-[ {
-    "title": "Home",
-    "post_content": "This is the home page",
-}]
+[ 
+    {"comment_text": "Home",
+},
+
+{"comment_text": "This is the home page",
+}
+
+]
+
+
